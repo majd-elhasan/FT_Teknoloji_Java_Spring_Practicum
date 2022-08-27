@@ -17,7 +17,7 @@ import java.util.Date;
 import java.util.List;
 
 @RestController
-@RequestMapping("Comments")
+@RequestMapping("comments")
 public class ProductCommentController {
     private final ProductCommentService service;
 
